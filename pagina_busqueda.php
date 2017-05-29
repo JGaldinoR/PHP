@@ -18,6 +18,15 @@
 			text-align: center;
 		}
 
+		/*
+		<form action="pagina.php" method="POST">
+			<label>Buscar: <input type="text" name="buscar"></label>
+			<input type="submit" name="enviando" value="entra">
+
+		</form>
+
+
+	*/
 
 	</style>
 
